@@ -2,8 +2,8 @@
 
 ## Team
 
-- **Student 1:** Samyak Sanklecha — **PES2UG24CS436**
-- **Student 2:** Shriram Chandrasekar — **PES2UG24CS495**
+- **Student 1:** Rhea Nair — **PES2UG24AM133**
+- **Student 2:** Riya Harugop — **PES2UG24AM136**
 
 ## Project Overview
 
